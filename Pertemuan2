@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+
+    </table>
+    <br>
+    <a href="https://filkom.ub.ac.id">Klik link Ini!</a>
+    <!-- <table border="1">
+        <caption align="top">
+            Daftar Mahasiswa
+        </caption>
+        <thead>
+            <th>No<th>    
+            <th>Nama<th> 
+            <th>NIM<th> 
+            <th>Prodi<thread> 
+        </thread>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Devan</td>
+                <td>22</td>
+                <td>PTI</td>
+            </tr>
+            <tr></tr> -->
+</body>
+</html>
